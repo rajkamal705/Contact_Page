@@ -1,10 +1,10 @@
 import React from "react";
-import Contact from "./Contact";
+import FormArea from "./FormArea";
 
 function App() {
   return (
     <>
-      <Contact />
+      <FormArea />
     </>
   );
 }

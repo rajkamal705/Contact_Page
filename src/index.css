@@ -1,3 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Bangers&family=Geologica&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* @layer base {
+  input[type="text"]::placeholder {
+    @apply font-inter italic;
+  }
+} */
